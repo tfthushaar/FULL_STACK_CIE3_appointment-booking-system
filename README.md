@@ -92,8 +92,9 @@ The database schema is created with the following tables:
 
 ## Contributors
 
-- Trisha Hansen D'Souza, K N Thushaar Rangan, Amogh P
+- Amogh P A, K N Thushaar Rangan, Amogh P
 
 ## License
+
 
 This project is licensed under the [MIT License](LICENSE).
